@@ -33,14 +33,14 @@
 
 
  ## Data Output
- - Raw source files are in the `/RAW/` folder. 1 of the files are zipped as its too large to be uploaded to github
+ - Raw source files are in the `/Raw/` folder. 1 of the files are zipped as its too large to be uploaded to github
  - Cleaned file is in the `output/Cleaned/Cleaned.csv.zip` Unzip it to get the actual Cleaned csv file
  - Transformed file is in the `output/Transformed/Transformed.csv.zip`. Unzip it to get the actual Transformed csv file
- - Hashed file is in the `output/Hashed/Hashed.csv.zip`. Unzip it to get the actual Hashed csv file
+ - Hashed files are in the `output/Hashed/Hashed_Part1.csv.zip`, `output/Hashed/Hashed_Part2.csv.zip` and `output/Hashed/Hashed_Part3.csv.zip. Unzip it to get the actual Hashed csv files
  - Quarantined file is in the `output/Quarantined/Quarantined.csv.zip`. Unzip it to get the actual Hashed csv file
 
  ## Insights and Assumptions file
  - There is a markdown file `InsightsAndAssumptions.md` which describes the insights from the data quality rules and data transformations. It also includes assumptions made.
 
  # Part2DataArchitecture
- - There are 2 Data Architecture files uploaded to describe the Data Ingestion and Data Exploitation Architecture. 
+ - There are 2 Data Architecture files uploaded to describe the Data Ingestion `2aDataIngestionArchitecture.png` and Data Exploitation Architecture `2bDataExploitationArchitecture.png`. 

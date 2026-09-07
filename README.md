@@ -36,7 +36,7 @@
  - Raw source files are in the `/Raw/` folder. 1 of the files are zipped as its too large to be uploaded to github
  - Cleaned file is in the `output/Cleaned/Cleaned.csv.zip` Unzip it to get the actual Cleaned csv file
  - Transformed file is in the `output/Transformed/Transformed.csv.zip`. Unzip it to get the actual Transformed csv file
- - Hashed files are in the `output/Hashed/Hashed_Part1.csv.zip`, `output/Hashed/Hashed_Part2.csv.zip` and `output/Hashed/Hashed_Part3.csv.zip. Unzip it to get the actual Hashed csv files
+ - Hashed files are in the `output/Hashed/Hashed_part1.csv.zip`, `output/Hashed/Hashed_part2.csv.zip` and `output/Hashed/Hashed_part3.csv.zip. Unzip it to get the actual Hashed csv files
  - Quarantined file is in the `output/Quarantined/Quarantined.csv.zip`. Unzip it to get the actual Hashed csv file
 
  ## Insights and Assumptions file

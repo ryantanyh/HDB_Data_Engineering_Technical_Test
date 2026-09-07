@@ -40,7 +40,7 @@
  - Quarantined file is in the `output/Quarantined/Quarantined.csv.zip`. Unzip it to get the actual Hashed csv file
 
  ## Insights and Assumptions file
- - There is another markdown file `InsightsAndAssumptions.md`
+ - There is a markdown file `InsightsAndAssumptions.md` which describes the insights from the data quality rules and data transformations. It also includes assumptions made.
 
  # Part2DataArchitecture
- - Have uploaded a `Part2DataArchitecture.pdf` pdf file
+ - There are 2 Data Architecture files uploaded to describe the Data Ingestion and Data Exploitation Architecture. 
